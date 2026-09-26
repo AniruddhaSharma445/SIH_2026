@@ -1,0 +1,6 @@
+evidence_id,flag_id,evidence_type,evidence_text,source_id,confidence
+ev001,fl001,alias,R. Sharma is the same person previously recorded as Rahul Sharma.,FIR_009,0.99
+ev002,fl002,transaction_note,"A transaction-related note mentions Rahul Sharma, Suresh Patel and Neeraj Khan.",FIR_010,0.76
+ev003,fl003,alias,"Neeraj Khan, also recorded as N. Khan.",FIR_003,0.99
+ev004,fl004,vehicle,Manish Gupta is linked to vehicle MP04NP6789.,FIR_011,0.99
+ev005,fl005,correlation,"A final synthetic intelligence note mentions Amit Verma, Farhan Ali and Rahul Sharma and recommends evidence correlation.",FIR_012,0.96

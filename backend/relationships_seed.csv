@@ -1,0 +1,19 @@
+relationship_id,source_entity_id,target_entity_id,type,confidence,source_document_id,context
+REL_001,P-001,P-002,CONTACTED,0.96,FIR_001,Rahul Sharma discussed a delivery with Amit Verma.
+REL_002,P-002,P-003,ASSOCIATED_WITH,0.91,FIR_002,Amit Verma met Suresh Patel.
+REL_003,P-004,P-001,ASSOCIATED_WITH,0.93,FIR_003,Neeraj Khan met Rahul Sharma.
+REL_004,P-005,P-006,ASSOCIATED_WITH,0.9,FIR_004,Vikram Singh and Pooja Mehta were together.
+REL_005,P-007,P-008,ASSOCIATED_WITH,0.88,FIR_005,Rakesh Yadav and Imran Sheikh occurred in same note.
+REL_006,P-008,P-009,ASSOCIATED_WITH,0.87,FIR_005,Imran Sheikh and Karan Joshi occurred in same note.
+REL_007,P-010,P-011,ASSOCIATED_WITH,0.89,FIR_006,Deepak Rao met Anjali Verma.
+REL_008,P-012,P-010,ASSOCIATED_WITH,0.86,FIR_006,Manish Gupta mentioned as common contact.
+REL_009,P-013,P-014,ASSOCIATED_WITH,0.9,FIR_007,Sameer Khan and Nitin Tiwari linked.
+REL_010,P-014,P-015,ASSOCIATED_WITH,0.9,FIR_007,Nitin Tiwari and Farhan Ali linked.
+REL_011,P-016,P-017,ASSOCIATED_WITH,0.89,FIR_008,Kavita Singh and Arjun Malhotra linked.
+REL_012,P-017,P-018,ASSOCIATED_WITH,0.88,FIR_008,Arjun Malhotra and Rohit Jain linked.
+REL_013,P-001,P-003,TRANSFERRED,0.95,FIN_001,Account-level transfer between Rahul and Suresh.
+REL_014,P-003,P-001,TRANSFERRED,0.95,FIN_001,Return transfer creates circular flow.
+REL_015,P-001,P-004,TRANSFERRED,0.92,FIN_003,Rahul-linked account transfers to Neeraj-linked account.
+REL_016,P-002,P-007,TRANSFERRED,0.9,FIN_003,Amit-linked account transfers to Rakesh-linked account.
+REL_017,P-001,P-002,CONTACTED,0.97,CDR_SPIKE_01,Repeated calls from Rahul's phone to Amit's phone.
+REL_018,P-004,P-002,CONTACTED,0.92,CDR_GENERAL_02,Neeraj's phone contacted Amit's phone.

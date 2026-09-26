@@ -1,0 +1,6 @@
+flag_id,person_id,flag_type,severity,description,confidence,source_id
+fl001,p001,alias_match,medium,Multiple name variants appear across FIR sources.,0.91,FIR_009
+fl002,p001,multi_source_link,medium,Person appears across multiple FIR source records and a transaction-related note.,0.82,FIR_010
+fl003,p004,alias_match,medium,N. Khan is explicitly stated to refer to Neeraj Khan.,0.98,FIR_003
+fl004,p012,vehicle_recurrence,medium,Vehicle MP04NP6789 is linked to Manish Gupta in two FIR records.,0.95,FIR_011
+fl005,p001,evidence_correlation,medium,Final note recommends correlation involving Rahul Sharma.,0.76,FIR_012

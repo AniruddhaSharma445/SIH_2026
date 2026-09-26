@@ -1,0 +1,5 @@
+alias_id,person_id,alias,alias_type,source_id
+a001,p001,Rahul K Sharma,name_variant,FIR_001
+a002,p001,R. Sharma,abbreviation,FIR_009
+a003,p004,N. Khan,abbreviation,FIR_003
+a004,p004,N. Khan,abbreviation,FIR_009

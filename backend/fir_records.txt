@@ -1,0 +1,89 @@
+DOCUMENT_ID: FIR_001
+DATE: 2026-08-01
+LOCATION: Bhopal Central
+TEXT:
+On 01 August 2026, the report records that Rahul K Sharma met Amit Verma near New Market, Bhopal.
+Rahul Sharma was using vehicle MP04AB1234. The note states that the two discussed a delivery planned
+for the following evening. Contact number 9000010000 was associated with Rahul Sharma.
+================================================================================
+DOCUMENT_ID: FIR_002
+DATE: 2026-08-02
+LOCATION: Bhopal Central
+TEXT:
+Witness information states that Suresh Patel met Amit Verma near Habibganj station.
+Suresh Patel used vehicle MP04CD5678 for part of the journey. The report references phone 9000010002
+and case reference CASE-2026-014.
+================================================================================
+DOCUMENT_ID: FIR_003
+DATE: 2026-08-03
+LOCATION: Sehore Road
+TEXT:
+A field note mentions Neeraj Khan, also recorded as N. Khan, meeting Rahul Sharma at a roadside
+restaurant on Sehore Road. Neeraj used MP04EF9012. The same note mentions Amit Verma as a person
+known to Neeraj. Location: Sehore Road, Bhopal.
+================================================================================
+DOCUMENT_ID: FIR_004
+DATE: 2026-08-04
+LOCATION: Kolar Road
+TEXT:
+Investigators recorded that Vikram Singh and Pooja Mehta visited Kolar Road together.
+Vikram Singh was linked to MP04GH3456. Pooja Mehta's number 9000010005 appears in the source notes.
+================================================================================
+DOCUMENT_ID: FIR_005
+DATE: 2026-08-05
+LOCATION: Old Bhopal
+TEXT:
+The source reports communication between Rakesh Yadav, Imran Sheikh and Karan Joshi.
+Imran Sheikh was associated with MP04JK7890. The three names occur in the same intelligence note.
+================================================================================
+DOCUMENT_ID: FIR_006
+DATE: 2026-08-06
+LOCATION: Misrod
+TEXT:
+An intelligence note says Deepak Rao met Anjali Verma at Misrod. Manish Gupta is mentioned as
+a common contact. Deepak Rao used phone 9000010009 and vehicle MP04NP6789 is linked to Manish Gupta.
+================================================================================
+DOCUMENT_ID: FIR_007
+DATE: 2026-08-07
+LOCATION: MP Nagar
+TEXT:
+The report connects Sameer Khan, Nitin Tiwari and Farhan Ali. Farhan Ali was observed near
+MP Nagar and is associated with phone 9000010014. Case reference CASE-2026-021.
+================================================================================
+DOCUMENT_ID: FIR_008
+DATE: 2026-08-08
+LOCATION: Bairagarh
+TEXT:
+Kavita Singh and Arjun Malhotra were reported together in Bairagarh. Rohit Jain is listed as
+another contact in the same source. Kavita Singh uses phone 9000010015.
+================================================================================
+DOCUMENT_ID: FIR_009
+DATE: 2026-08-09
+LOCATION: Bhopal Central
+TEXT:
+A later source refers to R. Sharma, Amit Verma and N. Khan. The text states that R. Sharma is
+the same person previously recorded as Rahul Sharma. The three names were linked through the same
+meeting location in Bhopal.
+================================================================================
+DOCUMENT_ID: FIR_010
+DATE: 2026-08-10
+LOCATION: Habibganj
+TEXT:
+A transaction-related note mentions Rahul Sharma, Suresh Patel and Neeraj Khan. Account
+4567891201 is associated with Rahul Sharma. Account 4567891203 is associated with Suresh Patel.
+================================================================================
+DOCUMENT_ID: FIR_011
+DATE: 2026-08-11
+LOCATION: Kolar Road
+TEXT:
+The report mentions Rahul K Sharma and Manish Gupta. Rahul K Sharma is listed with phone
+9000010000. Manish Gupta is linked to vehicle MP04NP6789. The source asks investigators to compare
+this record with earlier CDR entries.
+================================================================================
+DOCUMENT_ID: FIR_012
+DATE: 2026-08-12
+LOCATION: MP Nagar
+TEXT:
+A final synthetic intelligence note mentions Amit Verma, Farhan Ali and Rahul Sharma.
+It states that these names appear in separate source types and recommends evidence correlation.
+================================================================================
