@@ -20,6 +20,7 @@ const INITIAL_REPORTS = [
     pages: '45 pp',
     date: '11 Sep 2026, 14:30 IST',
     status: 'Verified',
+    pdfUrl: '/reports/case-24-2026-dossier.pdf',   // ← add this line
   },
   {
     id: 'rep-02',
@@ -29,6 +30,7 @@ const INITIAL_REPORTS = [
     pages: '1 pp',
     date: '08 Sep 2026, 09:15 IST',
     status: 'Verified',
+    // no pdfUrl — button stays inert for this one
   },
   {
     id: 'rep-03',
@@ -229,15 +231,22 @@ export const ReportsView: React.FC = () => {
                       </span>
                     )}
                   </td>
-                  <td className="py-4 px-6 text-right">
-                    <button 
-                      type="button" 
-                      className="inline-flex items-center gap-1.5 px-3 py-1.5 bg-white hover:bg-[#f4f2ea] border border-[#ddd6c6] text-slate-700 text-[11px] font-bold rounded-lg transition-colors cursor-pointer"
-                    >
-                      <Download className="w-3.5 h-3.5 text-slate-400" />
-                      PDF
-                    </button>
-                  </td>
+<td className="py-4 px-6 text-right">
+  <button 
+    type="button"
+    disabled={!report.pdfUrl}
+    onClick={() => {
+  alert("pdfUrl = " + report.pdfUrl);
+  if (report.pdfUrl) {
+    window.open(report.pdfUrl, "_blank", "noopener,noreferrer");
+  }
+}}
+    className="inline-flex items-center gap-1.5 px-3 py-1.5 bg-white hover:bg-[#f4f2ea] border border-[#ddd6c6] text-slate-700 text-[11px] font-bold rounded-lg transition-colors cursor-pointer disabled:opacity-40 disabled:cursor-not-allowed disabled:hover:bg-white"
+  >
+    <Download className="w-3.5 h-3.5 text-slate-400" />
+    PDF-test
+  </button>
+</td>
                 </tr>
               ))}
             </tbody>
