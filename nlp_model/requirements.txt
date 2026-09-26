@@ -1,0 +1,6 @@
+pymupdf>=1.24
+spacy>=3.7
+pydantic>=2.6
+pandas>=2.2
+google-genai>=0.3
+python-dotenv>=1.0
