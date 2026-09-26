@@ -1,8 +1,0 @@
-{
-  "name": "Remix Remix Remix Remix Remix ANVESHAK - AI Criminal Network Analysis",
-  "description": "AI-Powered Criminal Network Analysis System prototype for connecting fragmented investigation evidence and discovering hidden relationships. It should visualize complex link maps and generate predictive risk assessments automatically.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
