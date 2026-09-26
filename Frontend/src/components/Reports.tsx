@@ -12,7 +12,7 @@ import {
 
 // Initial mock data based on Case 24/2026 prototype context
 const INITIAL_REPORTS = [
-  {
+    {
     id: 'rep-01',
     title: 'Case 24/2026 — Comprehensive Dossier v1',
     type: 'FULL_DOSSIER',
@@ -230,7 +230,7 @@ export const ReportsView: React.FC = () => {
                       </span>
                     )}
                   </td>
-                 <td className="py-4 px-6 text-right">
+                                     <td className="py-4 px-6 text-right">
                     <button 
                       type="button" 
                       onClick={() => {
