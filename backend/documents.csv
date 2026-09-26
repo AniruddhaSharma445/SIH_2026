@@ -1,0 +1,13 @@
+document_id,document_name,document_type,fir_number,police_station,date,source_path
+FIR_001,FIR_001.txt,FIR,FIR_001,Bhopal Central,2026-08-01,/synthetic/source/FIR_001.txt
+FIR_002,FIR_002.txt,FIR,FIR_002,Bhopal Central,2026-08-02,/synthetic/source/FIR_002.txt
+FIR_003,FIR_003.txt,FIR,FIR_003,Sehore Road,2026-08-03,/synthetic/source/FIR_003.txt
+FIR_004,FIR_004.txt,FIR,FIR_004,Kolar Road,2026-08-04,/synthetic/source/FIR_004.txt
+FIR_005,FIR_005.txt,FIR,FIR_005,Old Bhopal,2026-08-05,/synthetic/source/FIR_005.txt
+FIR_006,FIR_006.txt,FIR,FIR_006,Misrod,2026-08-06,/synthetic/source/FIR_006.txt
+FIR_007,FIR_007.txt,FIR,FIR_007,MP Nagar,2026-08-07,/synthetic/source/FIR_007.txt
+FIR_008,FIR_008.txt,FIR,FIR_008,Bairagarh,2026-08-08,/synthetic/source/FIR_008.txt
+FIR_009,FIR_009.txt,FIR,FIR_009,Bhopal Central,2026-08-09,/synthetic/source/FIR_009.txt
+FIR_010,FIR_010.txt,FIR,FIR_010,Habibganj,2026-08-10,/synthetic/source/FIR_010.txt
+FIR_011,FIR_011.txt,FIR,FIR_011,Kolar Road,2026-08-11,/synthetic/source/FIR_011.txt
+FIR_012,FIR_012.txt,FIR,FIR_012,MP Nagar,2026-08-12,/synthetic/source/FIR_012.txt

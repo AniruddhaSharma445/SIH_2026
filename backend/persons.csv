@@ -1,0 +1,21 @@
+person_id,name,alternate_name,synthetic_person_id,normalized_name
+1,Rahul Sharma,Rahul K Sharma,P-001,rahulsharma
+2,Amit Verma,Amit Verma,P-002,amitverma
+3,Suresh Patel,Suresh Patel,P-003,sureshpatel
+4,Neeraj Khan,N. Khan,P-004,neerajkhan
+5,Vikram Singh,Vikram Singh,P-005,vikramsingh
+6,Pooja Mehta,Pooja Mehta,P-006,poojamehta
+7,Rakesh Yadav,R. Yadav,P-007,rakeshyadav
+8,Imran Sheikh,Imran Sheikh,P-008,imransheikh
+9,Karan Joshi,Karan Joshi,P-009,karanjoshi
+10,Deepak Rao,Deepak Rao,P-010,deepakrao
+11,Anjali Verma,Anjali Verma,P-011,anjaliverma
+12,Manish Gupta,M. Gupta,P-012,manishgupta
+13,Sameer Khan,Sameer Khan,P-013,sameerkhan
+14,Nitin Tiwari,Nitin Tiwari,P-014,nitintiwari
+15,Farhan Ali,F. Ali,P-015,farhanali
+16,Kavita Singh,Kavita Singh,P-016,kavitasingh
+17,Arjun Malhotra,A. Malhotra,P-017,arjunmalhotra
+18,Rohit Jain,Rohit Jain,P-018,rohitjain
+19,Sunil Mishra,S. Mishra,P-019,sunilmishra
+20,Meena Kapoor,Meena Kapoor,P-020,meenakapoor

@@ -1,0 +1,24 @@
+relationship_id,source_person_id,target_person_id,relationship_type,description,evidence_text,confidence,source_id
+rel001,p001,p002,met,"Met near New Market, Bhopal","Rahul K Sharma met Amit Verma near New Market, Bhopal.",0.94,FIR_001
+rel002,p003,p002,met,Met near Habibganj station,Suresh Patel met Amit Verma near Habibganj station.,0.94,FIR_002
+rel003,p004,p001,met,Met at roadside restaurant,"Neeraj Khan, also recorded as N. Khan, met Rahul Sharma at a roadside restaurant.",0.95,FIR_003
+rel004,p004,p002,known_contact,Amit Verma was known to Neeraj Khan,The same note mentions Amit Verma as a person known to Neeraj.,0.88,FIR_003
+rel005,p005,p006,co_visit,Visited Kolar Road together,Vikram Singh and Pooja Mehta visited Kolar Road together.,0.93,FIR_004
+rel006,p007,p008,communication,Communication in same intelligence note,"The source reports communication between Rakesh Yadav, Imran Sheikh and Karan Joshi.",0.84,FIR_005
+rel007,p008,p009,communication,Communication in same intelligence note,"The source reports communication between Rakesh Yadav, Imran Sheikh and Karan Joshi.",0.84,FIR_005
+rel008,p007,p009,communication,Communication in same intelligence note,"The source reports communication between Rakesh Yadav, Imran Sheikh and Karan Joshi.",0.84,FIR_005
+rel009,p010,p011,met,Met at Misrod,An intelligence note says Deepak Rao met Anjali Verma at Misrod.,0.94,FIR_006
+rel010,p010,p012,common_contact,Manish Gupta mentioned as common contact,Manish Gupta is mentioned as a common contact.,0.86,FIR_006
+rel011,p013,p014,connected,Names connected in report,"The report connects Sameer Khan, Nitin Tiwari and Farhan Ali.",0.82,FIR_007
+rel012,p013,p015,connected,Names connected in report,"The report connects Sameer Khan, Nitin Tiwari and Farhan Ali.",0.82,FIR_007
+rel013,p014,p015,connected,Names connected in report,"The report connects Sameer Khan, Nitin Tiwari and Farhan Ali.",0.82,FIR_007
+rel014,p016,p017,co_present,Reported together in Bairagarh,Kavita Singh and Arjun Malhotra were reported together in Bairagarh.,0.93,FIR_008
+rel015,p016,p018,contact,Rohit Jain listed as another contact,Rohit Jain is listed as another contact in the same source.,0.75,FIR_008
+rel016,p001,p002,linked,Linked through same meeting location,"R. Sharma, Amit Verma and N. Khan were linked through the same meeting location in Bhopal.",0.87,FIR_009
+rel017,p001,p004,linked,Linked through same meeting location,"R. Sharma, Amit Verma and N. Khan were linked through the same meeting location in Bhopal.",0.87,FIR_009
+rel018,p002,p004,linked,Linked through same meeting location,"R. Sharma, Amit Verma and N. Khan were linked through the same meeting location in Bhopal.",0.87,FIR_009
+rel019,p001,p003,transaction_note,Mentioned in transaction-related note,"A transaction-related note mentions Rahul Sharma, Suresh Patel and Neeraj Khan.",0.76,FIR_010
+rel020,p001,p004,transaction_note,Mentioned in transaction-related note,"A transaction-related note mentions Rahul Sharma, Suresh Patel and Neeraj Khan.",0.76,FIR_010
+rel021,p001,p012,source_correlation,Mentioned together; compare with CDR,The report mentions Rahul K Sharma and Manish Gupta.,0.72,FIR_011
+rel022,p002,p015,evidence_correlation,Recommended evidence correlation,"A final synthetic intelligence note mentions Amit Verma, Farhan Ali and Rahul Sharma.",0.7,FIR_012
+rel023,p002,p001,evidence_correlation,Recommended evidence correlation,"A final synthetic intelligence note mentions Amit Verma, Farhan Ali and Rahul Sharma.",0.7,FIR_012
